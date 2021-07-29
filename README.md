@@ -1,5 +1,6 @@
 # Alphabet-Lotto Game
 Stack data structure in Java
+
 Two people play this game with:
 - alphabet-cards  
 - bags including letters  
